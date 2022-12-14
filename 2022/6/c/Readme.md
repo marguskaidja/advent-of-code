@@ -8,4 +8,4 @@ Execute `make` in current directory
 #### To run
 Run `./6 <input-file> <chunk-length>` where:
 * **<_input-file_>** file containing the data-stream
-* **<_chunk-length_>** is the number of continuous unique characters to search (between 1 and 256)
+* **<_chunk-length_>** is the number of continuous unique characters to search (between 2 and 256)
